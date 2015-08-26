@@ -1,0 +1,72 @@
+
+/* light Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-light.otf');
+  src: local('☺'), url('../fonts/avenir-light.otf') format("opentype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* light italic Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-lightoblique.otf');
+  src: local('☺'), url('../fonts/avenir-lightoblique.otf') format("opentype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* book Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-book.otf');
+  src: local('☺'), url('../fonts/avenir-book.otf') format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* book italic Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-bookoblique.otf');
+  src: local('☺'), url('../fonts/avenir-bookoblique.otf') format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* roman Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-roman.otf');
+  src: local('☺'), url('../fonts/avenir-roman.otf') format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* roman italic Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-oblique.otf');
+  src: local('☺'), url('../fonts/avenir-oblique.otf') format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* black Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-black.otf');
+  src: local('☺'), url('../fonts/avenir-black.otf') format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* black italic Weight */
+@font-face {
+  font-family: 'avenir';
+  src: url('../fonts/avenir-black.otf');
+  src: local('☺'), url('../fonts/avenir-black.otf') format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
